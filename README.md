@@ -103,16 +103,6 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
   - [Website](https://talkbase.io/company/productboard/events)
 </details>
 
-<details>
-  <summary><b>Apify</b> - Full-stack platform for web scraping hosting tech events.</summary>
-    &nbsp;
-  
-  - Hosts AI workshops and panel discussions
-  - Full-stack platform for web scraping and automation
-  - Active in organizing community events
-  - [Website](https://lu.ma/user/apify)
-</details>
-
 ## 👨‍💻 People
 
 <details>

@@ -10,7 +10,7 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
 ## Event Calendars
 
 <details>
-  <summary><b> ## Prg.AI Calendar</b> - Comprehensive Google calendar of AI and tech events in Prague.</summary>
+  <summary><b> Prg.AI Calendar</b> - Comprehensive Google calendar of AI and tech events in Prague.</summary>
   
   - Puts together a lot of interesting AI and tech events in one Google calendar
   - Maintained by Prg.AI initiative
@@ -36,6 +36,17 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
 </details>
 
 ## Organizations and Communities
+
+<details>
+  <summary><b> Miton AI Times </b> - Knowledge Exchange in Machine Learning.</summary>
+  
+  - Unique meetup born from a playful twist on words, where scientific papers meet newspaper tradition
+  - Organized by the AI Team of GLAMI, along with colleagues from Biano and Rossum
+  - 833+ members in a public group based in Prague, Czech Republic
+  - Brings together Machine Learning enthusiasts from diverse backgrounds
+ - [Website](https://www.meetup.com/miton-times/)
+</details>
+
 
 <details>
   <summary><b>AI Tinkerers Prague</b> - A global community with a strong Prague presence.</summary>

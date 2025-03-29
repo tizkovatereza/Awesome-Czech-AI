@@ -10,7 +10,7 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
 ## Event Calendars
 
 <details>
-  <summary><b>Prg.AI Calendar</b> - Comprehensive Google calendar of AI and tech events in Prague.</summary>
+  <summary><b> ## Prg.AI Calendar</b> - Comprehensive Google calendar of AI and tech events in Prague.</summary>
   
   - Puts together a lot of interesting AI and tech events in one Google calendar
   - Maintained by Prg.AI initiative

@@ -1,13 +1,13 @@
-# Awesome-Czech-AI
+# 🇨🇿 Awesome Czech AI
 
 A curated list of events, hackathons, and communities focused on AI and tech in the Czech Republic.
 
 ## Contents
-- [Event Calendars](#event-calendars)
-- [Organizations and Communities](#organizations-and-communities)
-- [People](#people)
+- 🗓️ [Event Calendars](#event-calendars)
+- 🤝 [Organizations and Communities](#organizations-and-communities)
+- 👨‍💻 [People](#people)
 
-## Event Calendars
+## 🗓️ Event Calendars
 
 <details>
   <summary><b> Prg.AI Calendar</b> - Comprehensive Google calendar of AI and tech events in Prague.</summary>
@@ -38,7 +38,7 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
   - [Calendar link](https://lu.ma/e2b)
 </details>
 
-## Organizations and Communities
+## 🤝 Organizations and Communities
 
 <details>
   <summary><b> Miton AI Times </b> - Knowledge Exchange in Machine Learning.</summary>
@@ -112,7 +112,7 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
   - [Website](https://lu.ma/user/apify)
 </details>
 
-## People
+## 👨‍💻 People
 
 <details>
   <summary><b>Marek Miltner</b> - AI Tinkerers Prague organizer.</summary>

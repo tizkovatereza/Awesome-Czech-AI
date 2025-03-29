@@ -2,7 +2,7 @@
 
 A curated list of events, hackathons, and communities focused on AI and tech in the Czech Republic.
 
-## Contents
+## 📋 Contents
 - 🗓️ [Event Calendars](#event-calendars)
 - 🤝 [Organizations and Communities](#organizations-and-communities)
 - 👨‍💻 [People](#people)
@@ -145,7 +145,7 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
 </details>
 
 
-## Contribute
+## 🤲 Contribute
 
 <details>
   <summary><b>Add to this list</b> - Make a PR to contribute.</summary>

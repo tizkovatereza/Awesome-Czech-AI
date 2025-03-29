@@ -6,6 +6,7 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
 - 🗓️ [Event Calendars](#event-calendars)
 - 🤝 [Organizations and Communities](#organizations-and-communities)
 - 👨‍💻 [People](#people)
+- 🤲 [Contribute](#contribute)
 
 ## 🗓️ Event Calendars
 

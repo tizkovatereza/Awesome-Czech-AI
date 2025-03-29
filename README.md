@@ -130,3 +130,28 @@ A curated list of events, hackathons, and communities focused on AI and tech in 
   - Focuses on generative AI technologies
   - [X Profile](https://x.com/PetrBrzek)
 </details>
+
+
+## Contribute
+
+<details>
+  <summary><b>Add to this list</b> - Make a PR to contribute.</summary>
+  
+  - This list is open for contributions
+  - If you know of an AI event, community, or notable person in the Czech tech scene, please make a pull request
+  - Include all relevant information in the same format as existing entries
+  - Ensure links are working and descriptions are accurate
+</details>
+
+<details>
+  <summary><b>Prague on Luma</b> - Initiative to get Prague listed on Luma's event platform.</summary>
+  
+  - Luma, a go-to online place for AI and tech events, doesn't currently list Prague. All the other "cool kids" are there - London (67 events a month), Berlin (36 events a month), New York (53 events a month)...
+  - Cities are listed based on how many events are hosted there (based on my knowledge).
+  - We need more Prague events registered on Luma to get the city listed
+  - Consider hosting your next AI event through Luma to increase Prague's visibility
+  - Here is how you add your event on Luma:
+    - https://lu.ma/create
+    - Once you have the event, you can feature it on existing Luma calendars, either based on category, topic, or city: https://lu.ma/discover. That will also help other people discover your event.
+    - You can also start a Luma calendar for your organization or community: https://lu.ma/create-calendar. People can subscribe to it and get notified about upcoming events.
+</details>

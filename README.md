@@ -3,7 +3,7 @@
 A curated list of events, hackathons, and communities focused on AI and tech in the Czech Republic.
 
 ## 📋 Contents
-- 🗓️ [Event Calendars](#event-calendars)
+- 🗓️ [Event Calendars](https://github.com/tizkovatereza/Awesome-Czech-AI/blob/main/README.md#%EF%B8%8F-event-calendars)
 - 🤝 [Organizations and Communities](#organizations-and-communities)
 - 👨‍💻 [People](#people)
 - 🤲 [Contribute](#contribute)
